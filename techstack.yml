@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/microservices-framework-benchmark
 report_id: f76f0816ea99a9beea558bd2e93e9bd6
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:18:00+00:00'
+timestamp: '2024-01-05T08:24:34+00:00'
 requested_by: stevehu
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: Java EE
   description: The standard in community-driven enterprise software
@@ -65,6 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4522/652rxwyK_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/wildfly-swarm/pom.xml
   detection_source: wildfly-swarm/pom.xml
   last_updated_by: Ruslan Ibragimov
   last_updated_on: 2016-12-03 06:37:11.000000000 Z
@@ -77,6 +84,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: Lua
   description: Powerful, fast, lightweight, embeddable scripting language
@@ -86,6 +94,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: Scala
   description: A pure-bred object-oriented language that runs on the JVM
@@ -96,6 +105,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -107,6 +117,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/scenario1/apiA/apiA.csproj
   detection_source: dotnet-core/scenario1/apiA/apiA.csproj
   last_updated_by: Jes Bak Hansen
   last_updated_on: 2017-04-04 07:43:05.000000000 Z
@@ -149,6 +160,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1773/bxLhidly.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/akka-http/src/main/scala/com/madhukaraphatak/akkahttp/AkkaHttpHelloWorld.scala
   detection_source: akka-http/src/main/scala/com/madhukaraphatak/akkahttp/AkkaHttpHelloWorld.scala
   last_updated_by: hydra1983
   last_updated_on: 2016-12-04 02:54:10.000000000 Z
@@ -175,6 +187,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/2727/default_634685dfedc4df3d35d7eaa25d9d4cdd0be4c7b9.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
   detection_source: node-loopback/package.json
   last_updated_by: Ricardo Pina Arellano
   last_updated_on: 2017-08-28 20:43:20.000000000 Z
@@ -186,6 +199,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
   detection_source: micronaut-reactor/pom.xml
   last_updated_by: Pavol Liška
   last_updated_on: 2020-02-02 20:25:57.000000000 Z
@@ -199,6 +213,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-boot-3-tomcat/build.gradle
   detection_source: spring-boot-3-tomcat/build.gradle
   last_updated_by: Trần Ngọc Khoa
   last_updated_on: 2023-05-09 21:43:26.000000000 Z
@@ -224,6 +239,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/pom.xml
   detection_source: ninjaframework/pom.xml
   last_updated_by: Gelin Luo
   last_updated_on: 2017-01-28 04:26:26.000000000 Z
@@ -235,6 +251,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
   detection_source: jfinal/pom.xml
   last_updated_by: Gelin Luo
   last_updated_on: 2017-01-28 05:02:26.000000000 Z
@@ -246,6 +263,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/src/main/resources/a_little_config.txt
   detection_source: jfinal/src/main/resources/a_little_config.txt
   last_updated_by: Gelin Luo
   last_updated_on: 2017-01-28 05:02:26.000000000 Z
@@ -258,6 +276,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
   detection_source: node-loopback/package.json
   last_updated_by: Ricardo Pina Arellano
   last_updated_on: 2017-08-28 20:43:20.000000000 Z
@@ -269,6 +288,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -279,6 +299,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/bootique-jetty/build.gradle
   detection_source: bootique-jetty/build.gradle
   last_updated_by: Ruslan Ibragimov
   last_updated_on: 2016-11-22 19:10:49.000000000 Z
@@ -318,6 +339,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/actframework/src/main/resources/logback.xml
   detection_source: actframework/src/main/resources/logback.xml
   last_updated_by: Gelin Luo
   last_updated_on: 2017-01-26 00:37:22.000000000 Z
@@ -329,6 +351,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/scenario1/apiA/apiA.csproj
   detection_source: dotnet-core/scenario1/apiA/apiA.csproj
   last_updated_by: Jes Bak Hansen
   last_updated_on: 2017-04-04 07:43:05.000000000 Z
@@ -340,6 +363,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
   detection_source: node-loopback/package.json
   last_updated_by: Ricardo Pina Arellano
   last_updated_on: 2017-08-28 20:43:20.000000000 Z
@@ -352,6 +376,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/src/main/resources/application.yml
   detection_source: micronaut-reactor/src/main/resources/application.yml
   last_updated_by: Pavol Liška
   last_updated_on: 2020-02-02 20:25:57.000000000 Z
@@ -361,6 +386,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/src/main/java/views/system/403forbidden.ftl.html
   detection_source: ninjaframework/src/main/java/views/system/403forbidden.ftl.html
   last_updated_by: Gelin Luo
   last_updated_on: 2017-01-28 04:26:26.000000000 Z
@@ -372,6 +398,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/src/main/resources/a_little_config.txt
   detection_source: jfinal/src/main/resources/a_little_config.txt
   last_updated_by: Gelin Luo
   last_updated_on: 2017-01-28 05:02:26.000000000 Z
@@ -384,6 +411,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
   detection_source: Repo Metadata
 - name: ch.qos.logback:logback-classic
   description: Logback-classic module
@@ -538,6 +566,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
   detection_source: micronaut-reactor/pom.xml
   last_updated_by: Pavol Liška
   last_updated_on: 2020-02-28 08:33:21.000000000 Z
@@ -549,6 +578,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
   detection_source: micronaut-reactor/pom.xml
   last_updated_by: Pavol Liška
   last_updated_on: 2020-02-02 20:25:57.000000000 Z
@@ -573,6 +603,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jooby/pom.xml
   detection_source: jooby/pom.xml
   last_updated_by: Edgar Espina
   last_updated_on: 2017-03-25 21:43:09.000000000 Z
@@ -584,6 +615,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/light-4j/pom.xml
   detection_source: light-4j/pom.xml
   last_updated_by: Steve Hu
   last_updated_on: 2023-06-19 14:40:37.000000000 Z
@@ -595,6 +627,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/undertow/build.gradle
   detection_source: undertow/build.gradle
   last_updated_by: Trần Ngọc Khoa
   last_updated_on: 2023-05-09 21:44:06.000000000 Z
@@ -606,6 +639,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/undertow/build.gradle
   detection_source: undertow/build.gradle
   last_updated_by: Trần Ngọc Khoa
   last_updated_on: 2023-05-09 21:44:06.000000000 Z
@@ -645,6 +679,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
   detection_source: micronaut-reactor/pom.xml
   last_updated_by: Pavol Liška
   last_updated_on: 2020-02-02 20:25:57.000000000 Z
@@ -739,6 +774,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/javalin/pom.xml
   detection_source: javalin/pom.xml
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-07-16 17:21:32.000000000 Z
@@ -750,6 +786,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-boot-reactor/pom.xml
   detection_source: spring-boot-reactor/pom.xml
   last_updated_by: Steve Hu
   last_updated_on: 2016-11-06 02:20:44.000000000 Z
