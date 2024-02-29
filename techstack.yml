@@ -1,0 +1,1072 @@
+repo_name: ankurkumarz/microservices-framework-benchmark
+report_id: f76f0816ea99a9beea558bd2e93e9bd6
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:02:09+00:00'
+requested_by: stevehu
+provider: github
+branch: master
+detected_tools_count: 79
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: Java EE
+  description: The standard in community-driven enterprise software
+  website_url: http://www.oracle.com/technetwork/java/javaee/overview/index.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4522/652rxwyK_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/wildfly-swarm/pom.xml
+  detection_source: wildfly-swarm/pom.xml
+  last_updated_by: Ruslan Ibragimov
+  last_updated_on: 2016-12-03 06:37:11.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: Lua
+  description: Powerful, fast, lightweight, embeddable scripting language
+  website_url: http://www.lua.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/scenario1/apiA/apiA.csproj
+  detection_source: dotnet-core/scenario1/apiA/apiA.csproj
+  last_updated_by: Jes Bak Hansen
+  last_updated_on: 2017-04-04 07:43:05.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '1.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/hello-world/dotnet-core.csproj
+  detection_source: dotnet-core/hello-world/dotnet-core.csproj
+  last_updated_by: Jes Hansen
+  last_updated_on: 2017-03-28 13:25:29.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/hello-world/dotnet-core.csproj
+  detection_source: dotnet-core/hello-world/dotnet-core.csproj
+  last_updated_by: Jes Hansen
+  last_updated_on: 2017-03-28 13:25:29.000000000 Z
+- name: Akka
+  description: Build powerful concurrent &amp; distributed applications more easily
+  website_url: http://akka.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1773/bxLhidly.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/akka-http/src/main/scala/com/madhukaraphatak/akkahttp/AkkaHttpHelloWorld.scala
+  detection_source: akka-http/src/main/scala/com/madhukaraphatak/akkahttp/AkkaHttpHelloWorld.scala
+  last_updated_by: hydra1983
+  last_updated_on: 2016-12-04 02:54:10.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-express/package.json
+  detection_source: node-express/package.json
+  last_updated_by: Steve Hu
+  last_updated_on: 2016-11-05 02:39:14.000000000 Z
+- name: LoopBack
+  description: Build modern API applications that require complex integrations
+  website_url: https://loopback.io
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2727/default_634685dfedc4df3d35d7eaa25d9d4cdd0be4c7b9.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: Project Reactor
+  description: Library for building non-blocking applications on JVM
+  website_url: https://projectreactor.io/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
+  detection_source: micronaut-reactor/pom.xml
+  last_updated_by: Pavol Liška
+  last_updated_on: 2020-02-02 20:25:57.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-boot-3-tomcat/build.gradle
+  detection_source: spring-boot-3-tomcat/build.gradle
+  last_updated_by: Trần Ngọc Khoa
+  last_updated_on: 2023-05-09 21:43:26.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/pom.xml
+  detection_source: ninjaframework/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 04:26:26.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/pom.xml
+  detection_source: ninjaframework/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 04:26:26.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/src/main/resources/a_little_config.txt
+  detection_source: jfinal/src/main/resources/a_little_config.txt
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/bootique-jetty/build.gradle
+  detection_source: bootique-jetty/build.gradle
+  last_updated_by: Ruslan Ibragimov
+  last_updated_on: 2016-11-22 19:10:49.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.2.16
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/actframework/src/main/resources/logback.xml
+  detection_source: actframework/src/main/resources/logback.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-26 00:37:22.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/scenario1/apiA/apiA.csproj
+  detection_source: dotnet-core/scenario1/apiA/apiA.csproj
+  last_updated_by: Jes Bak Hansen
+  last_updated_on: 2017-04-04 07:43:05.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/src/main/resources/application.yml
+  detection_source: micronaut-reactor/src/main/resources/application.yml
+  last_updated_by: Pavol Liška
+  last_updated_on: 2020-02-02 20:25:57.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/src/main/java/views/system/403forbidden.ftl.html
+  detection_source: ninjaframework/src/main/java/views/system/403forbidden.ftl.html
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 04:26:26.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/src/main/resources/a_little_config.txt
+  detection_source: jfinal/src/main/resources/a_little_config.txt
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark
+  detection_source: Repo Metadata
+- name: ch.qos.logback:logback-classic
+  description: Logback-classic module
+  version: 1.2.3
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/javalin/pom.xml
+  detection_source: javalin/pom.xml
+  last_updated_by: Jindrich Pilar
+  last_updated_on: 2020-03-18 13:20:57.000000000 Z
+  vulnerabilities:
+  - name: logback serialization vulnerability
+    cve_id: CVE-2023-6378
+    cve_url: https://github.com/advisories/GHSA-vmq6-5m68-f53m
+    detected_date: Nov 30
+    severity: high
+    first_patched: 1.2.13
+- name: com.alibaba:druid
+  description: An JDBC datasource implementation
+  version: 1.1.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-annotations
+  description: Core annotations used for value types
+  version: 2.11.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-vertx/pom.xml
+  detection_source: spring-vertx/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2020-08-05 12:55:16.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  version: 2.15.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/light-4j/pom.xml
+  detection_source: light-4j/pom.xml
+  last_updated_by: Steve Hu
+  last_updated_on: 2023-05-31 17:06:21.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  version: 2.15.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/light-4j/pom.xml
+  detection_source: light-4j/pom.xml
+  last_updated_by: Steve Hu
+  last_updated_on: 2023-05-31 17:06:21.000000000 Z
+- name: com.h2database:h2
+  description: H2 Database Engine
+  version: 2.1.210
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/pom.xml
+  detection_source: ninjaframework/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 04:26:26.000000000 Z
+  vulnerabilities:
+  - name: 'Password exposure in H2 Database '
+    cve_id: CVE-2022-45868
+    cve_url: https://github.com/advisories/GHSA-22wj-vf5f-wrvj
+    detected_date: Nov 24
+    severity: high
+    first_patched: 2.2.220
+- name: com.jfinal:cos
+  description: Cos
+  version: '2017.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2018-01-19 20:13:29.000000000 Z
+- name: com.jfinal:jetty-server
+  description: Jetty Server
+  version: 8.1.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2018-01-19 20:13:29.000000000 Z
+- name: com.sparkjava:spark-core
+  description: A Sinatra inspired java web framework
+  version: 2.7.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spark/pom.xml
+  detection_source: spark/pom.xml
+  last_updated_by: Steve Hu
+  last_updated_on: 2016-11-15 02:49:34.000000000 Z
+- name: io.dropwizard:dropwizard-core
+  description: Dropwizard is a Java framework for developing ops-friendly
+  version: 1.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dropwizard/pom.xml
+  detection_source: dropwizard/pom.xml
+  last_updated_by: chris-lumigrow
+  last_updated_on: 2016-11-17 06:12:23.000000000 Z
+- name: io.micronaut:micronaut-inject
+  description: Natively Cloud Native
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
+  detection_source: micronaut-reactor/pom.xml
+  last_updated_by: Pavol Liška
+  last_updated_on: 2020-02-28 08:33:21.000000000 Z
+- name: io.projectreactor:reactor-core
+  description: Non-Blocking Reactive Foundation for the JVM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
+  detection_source: micronaut-reactor/pom.xml
+  last_updated_by: Pavol Liška
+  last_updated_on: 2020-02-02 20:25:57.000000000 Z
+- name: io.ratpack:ratpack-core
+  description: The core HTTP and composition mechanisms of Ratpack
+  version: 1.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ratpack/pom.xml
+  detection_source: ratpack/pom.xml
+  last_updated_by: hydra1983
+  last_updated_on: 2016-11-30 05:10:08.000000000 Z
+- name: io.rest-assured:rest-assured
+  description: Java DSL for easy testing of REST services
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jooby/pom.xml
+  detection_source: jooby/pom.xml
+  last_updated_by: Edgar Espina
+  last_updated_on: 2017-03-25 21:43:09.000000000 Z
+- name: io.undertow:undertow-core
+  description: Undertow
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/light-4j/pom.xml
+  detection_source: light-4j/pom.xml
+  last_updated_by: Steve Hu
+  last_updated_on: 2023-06-19 14:40:37.000000000 Z
+- name: io.undertow:undertow-servlet
+  description: High performance non-blocking webserver
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/undertow/build.gradle
+  detection_source: undertow/build.gradle
+  last_updated_by: Trần Ngọc Khoa
+  last_updated_on: 2023-05-09 21:44:06.000000000 Z
+- name: io.undertow:undertow-websockets-jsr
+  description: Undertow
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/undertow/build.gradle
+  detection_source: undertow/build.gradle
+  last_updated_by: Trần Ngọc Khoa
+  last_updated_on: 2023-05-09 21:44:06.000000000 Z
+- name: io.vertx:vertx-core
+  description: Sonatype helps open source projects to set up Maven repositories on
+    https://oss.sonatype.org/
+  version: 3.5.4
+  license: Apache-2.0,EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/vertx/pom.xml
+  detection_source: vertx/pom.xml
+  last_updated_by: Sean Burns
+  last_updated_on: 2017-02-23 20:55:59.000000000 Z
+- name: io.vertx:vertx-web
+  description: Sonatype helps open source projects to set up Maven repositories on
+    https://oss.sonatype.org/
+  version: 3.9.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-vertx/pom.xml
+  detection_source: spring-vertx/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-01 00:54:50.000000000 Z
+- name: javax.annotation:javax.annotation-api
+  description: Common Annotations for the JavaTM Platform API
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/micronaut-reactor/pom.xml
+  detection_source: micronaut-reactor/pom.xml
+  last_updated_by: Pavol Liška
+  last_updated_on: 2020-02-02 20:25:57.000000000 Z
+- name: javax:javaee-api
+  description: Java
+  version: '7.0'
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/wildfly-swarm/pom.xml
+  detection_source: wildfly-swarm/pom.xml
+  last_updated_by: Ruslan Ibragimov
+  last_updated_on: 2016-12-03 06:37:11.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+- name: log4j:log4j
+  description: Apache Log4j 1.2
+  version: 1.2.16
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 05:02:26.000000000 Z
+  vulnerabilities:
+  - name: SQL Injection in Log4j 1.2.x
+    cve_id: CVE-2022-23305
+    cve_url: https://github.com/advisories/GHSA-65fg-84f6-3jq3
+    detected_date: Jan 22
+    severity: critical
+    first_patched: 
+  - name: Deserialization of Untrusted Data in Apache Log4j
+    cve_id: CVE-2022-23307
+    cve_url: https://github.com/advisories/GHSA-f7vh-qwp3-x37m
+    detected_date: Nov 26
+    severity: critical
+    first_patched: 
+  - name: Deserialization of Untrusted Data in Log4j
+    cve_id: CVE-2019-17571
+    cve_url: https://github.com/advisories/GHSA-2qrg-x229-3v8q
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 
+  - name: Deserialization of Untrusted Data in Log4j 1.x
+    cve_id: CVE-2022-23302
+    cve_url: https://github.com/advisories/GHSA-w9p3-5cr8-m3jj
+    detected_date: Jan 22
+    severity: high
+    first_patched: 
+  - name: JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data
+    cve_id: CVE-2021-4104
+    cve_url: https://github.com/advisories/GHSA-fp5r-v3w9-4333
+    detected_date: Dec 15
+    severity: high
+    first_patched: 
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  version: 8.0.28
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/jfinal/pom.xml
+  detection_source: jfinal/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2018-01-19 20:13:29.000000000 Z
+- name: org.eclipse.jetty.http2:http2-server
+  description: The Eclipse Jetty Project
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/javalin/pom.xml
+  detection_source: javalin/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-07-16 17:21:32.000000000 Z
+- name: org.springframework.boot:spring-boot-starter
+  description: Core starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-boot-reactor/pom.xml
+  detection_source: spring-boot-reactor/pom.xml
+  last_updated_by: Steve Hu
+  last_updated_on: 2016-11-06 02:20:44.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-jpa
+  description: Starter for using Spring Data JPA with Hibernate
+  version: 2.5.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-vertx/pom.xml
+  detection_source: spring-vertx/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-01 00:54:50.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  version: 2.5.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-vertx/pom.xml
+  detection_source: spring-boot-3-tomcat/build.gradle
+  last_updated_by: Trần Ngọc Khoa
+  last_updated_on: 2023-05-09 21:43:26.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  version: 2.5.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/spring-vertx/pom.xml
+  detection_source: spring-boot-3-tomcat/build.gradle
+  last_updated_by: Trần Ngọc Khoa
+  last_updated_on: 2023-05-09 21:43:26.000000000 Z
+- name: org.webjars:bootstrap
+  description: WebJar for Bootstrap
+  version: 3.3.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/pom.xml
+  detection_source: ninjaframework/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 04:26:26.000000000 Z
+- name: org.webjars:jquery
+  description: WebJar for jQuery
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/ninjaframework/pom.xml
+  detection_source: ninjaframework/pom.xml
+  last_updated_by: Gelin Luo
+  last_updated_on: 2017-01-28 04:26:26.000000000 Z
+- name: ro.pippo:pippo-core
+  version: 1.12.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/pippo-jetty/pom.xml
+  detection_source: pippo-jetty/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-01-07 16:16:26.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 1.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-express/package.json
+  detection_source: node-express/package.json
+  last_updated_by: Steve Hu
+  last_updated_on: 2016-11-05 02:39:14.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.15.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-express/package.json
+  detection_source: node-express/package.json
+  last_updated_by: Steve Hu
+  last_updated_on: 2016-11-05 02:39:14.000000000 Z
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: errorhandler
+  description: Development-only error handler middleware
+  package_url: https://www.npmjs.com/errorhandler
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16986/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-express/package.json
+  detection_source: node-express/package.json
+  last_updated_by: Steve Hu
+  last_updated_on: 2016-11-05 02:39:14.000000000 Z
+- name: eslint-config-loopback
+  description: ESLint configs for LoopBack projects
+  package_url: https://www.npmjs.com/eslint-config-loopback
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18781/default_afda66acb9bafb22429bd41a9f8fb9fd9e63686c.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-28 14:19:53.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-express/package.json
+  detection_source: node-express/package.json
+  last_updated_by: Steve Hu
+  last_updated_on: 2016-11-05 02:39:14.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: loopback-boot
+  description: Convention-based bootstrapper for LoopBack applications
+  package_url: https://www.npmjs.com/loopback-boot
+  version: 2.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18629/default_f08fa0a5a2e5778c1a6aba47e2cc0d4e736fc68a.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: method-override
+  description: Override HTTP verbs
+  package_url: https://www.npmjs.com/method-override
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16758/default_92482df1bcbe0d3a46cc1d597c9687a42da1cd04.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-express/package.json
+  detection_source: node-express/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-10-28 14:19:31.000000000 Z
+- name: nsp
+  description: The Node Security
+  package_url: https://www.npmjs.com/nsp
+  version: 2.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16235/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: serve-favicon
+  description: Favicon serving middleware with caching
+  package_url: https://www.npmjs.com/serve-favicon
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16361/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/node-loopback/package.json
+  detection_source: node-loopback/package.json
+  last_updated_by: Ricardo Pina Arellano
+  last_updated_on: 2017-08-28 20:43:20.000000000 Z
+- name: Microsoft.AspNetCore.Mvc
+  description: ASP.NET Core MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc
+  version: 1.1.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12878/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/scenario1/apiA/apiA.csproj
+  detection_source: dotnet-core/scenario1/apiA/apiA.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-06-07 23:06:55.000000000 Z
+- name: Microsoft.AspNetCore.Server.Kestrel.Https
+  description: HTTPS support for the ASP.NET Core Kestrel cross-platform web server
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Server.Kestrel.Https
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13607/default_2fed3dd41a57ad03758b88d7d49dbbc498986493.png
+  detection_source_url: https://github.com/ankurkumarz/microservices-framework-benchmark/blob/master/dotnet-core/scenario1/apiA/apiA.csproj
+  detection_source: dotnet-core/scenario1/apiA/apiA.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-06-07 23:06:55.000000000 Z
